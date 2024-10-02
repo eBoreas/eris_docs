@@ -18,7 +18,7 @@
 各ディレクトリ内の `overview.md` はそのカテゴリの概要を説明しており、その他のファイルは特定の機能や要件に焦点を当てています。
 
 ## その他の仕様など
-- 仕様書置き場: []()
+- 仕様書置き場: https://eboreas.github.io/eris_docs/
 - サーバリポジトリ: [eris_server](https://github.com/eBoreas/eris_server)
 - iOSリポジトリ: [eris_ios](https://github.com/eBoreas/eris_ios)
 - タスク管理: [Saqqutto](https://app.saqqutto.com/apps/board)
