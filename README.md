@@ -6,10 +6,10 @@
 このドキュメントは、開発者、デザイナー、およびプロジェクト関係者が、アプリの機能と要件を理解し、効率的に開発を進めるための参考資料として提供されています。
 
 ## リポジトリの構造
-- `mission_managements`: ミッション管理に関連する仕様
-- `friend_managements`: フレンド登録機能に関連する仕様
-- `location_services`: 位置情報サービスに関連する仕様
 - `session_managements`: セッション管理に関連する仕様
+- `mission_managements`: ミッション管理に関連する仕様
+- `friend_managements`: フレンド管理に関連する仕様
+- `location_services`: 位置情報サービスに関連する仕様
 - `admins`: 管理画面に関連する仕様
 - `miscellaneous`: その他のドキュメント（用語集、リリースノート等）
 
