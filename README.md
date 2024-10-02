@@ -9,7 +9,7 @@
 
 ## リポジトリの構造
 - `mission_managements`: ミッション管理に関連する仕様
-- `friend_managements`: ユーザ登録機能に関連する仕様
+- `friend_managements`: フレンド登録機能に関連する仕様
 - `location_services`: 位置情報サービスに関連する仕様
 - `session_managements`: セッション管理に関連する仕様
 - `admins`: 管理画面に関連する仕様
