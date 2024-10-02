@@ -1,5 +1,3 @@
-# Todo App Specifications
-
 ## 概要
 このリポジトリは、Todoアプリの仕様書を集約するためのものです。  
 アプリでは「ミッション」と呼ばれるタスク管理機能を中心に、ユーザ登録、位置情報サービス、およびセッション管理の仕様が記載されています。
@@ -20,6 +18,7 @@
 各ディレクトリ内の `overview.md` はそのカテゴリの概要を説明しており、その他のファイルは特定の機能や要件に焦点を当てています。
 
 ## その他の仕様など
+- 仕様書置き場: []()
 - サーバリポジトリ: [eris_server](https://github.com/eBoreas/eris_server)
 - iOSリポジトリ: [eris_ios](https://github.com/eBoreas/eris_ios)
 - タスク管理: [Saqqutto](https://app.saqqutto.com/apps/board)
